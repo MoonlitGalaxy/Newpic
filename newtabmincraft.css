@@ -5,5 +5,17 @@
 img{
 	display:block;
 	width:100%;
-	height:100vh;
+	height:50vh;
+}
+li{
+	display: inline-block;
+	text-decoration: none;
+	border: 2px solid #010184;
+	text-align: center;
+	background-color: #093058;
+	color: white;
+}
+
+ul{
+	width: 100%;
 }
